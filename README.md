@@ -1,20 +1,22 @@
-# ThinkSync
+# ThinkSync  
+  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+  
+## Description  
+Imagine you have a pool of ideas but it is overflowing. Faucets of thoughts continually filling this pool. It is your job to turn off the valves for each idea so you can come to a solid stream of directional flow.
+  
+ThinkSync is a website that after creating an account, allows you to narrow down a set of ideas under a general topic or question. All of the entered ideas are then paired together, forcing the user to select a winner from each pair. They are then shuffled, paired again, and the cycle continues until a final winner for your topic or question. The vote count for each idea and the final result is stored in your account. 
+  
+Check it out [here](https://thinksync-1e5fbc55e5f7.herokuapp.com).  
+  
+## Development
+  
+  #### Installation
+  `cd` into directory and then install node packages with `npm install`
 
-
-## Description
-ThinkSync is a tool designed to help a team collaborate or an individual come to a decision.  Anyone can use ThinkSync to dynamically come to a decision, however by signing up, users can save and review their data which opens the possibility of analyzing trends or recurring choices.
-
-It is built using React, MongoDB, Mongoose, Express, and Material Design for Bootstrap v5 CSS framework.
-
-
-## Installation
-
-After cloning the repo, simply run `npm i` in the root.
-
-## Usage
-
-After installation, the script `npm run start` will initiate the program.
-
+  #### Start
+  `cd` into directory and then start the local development server with `npm run start`
+  
 
 ## Collaborators
 
@@ -24,12 +26,7 @@ After installation, the script `npm run start` will initiate the program.
 [ghaworth1](https://github.com/ghaworth1)       | [ghaworth1@gmail.com](mailto:ghaworth1@gmail.com)  
 [rweisshaar1](https://github.com/rweisshaar1)   | [robbieweisshaar@gmail.com](mailto:robbieweisshaar@gmail.com)  
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Links
-
-[Repository](https://github.com/BenTrebi/ThinkSync)
-
-[Deployed](https://thinksync-1e5fbc55e5f7.herokuapp.com)
+## Questions
+Contact me:
+[johntg96 | GitHub](https://github.com/johntg96)  
+[johntg96@protonmail.com](mailto:johntg96@protonmail.com.com)  
