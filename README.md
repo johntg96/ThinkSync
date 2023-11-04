@@ -11,6 +11,8 @@ ThinkSync is a website that after creating an account, allows you to narrow down
   
 Check it out [here](https://thinksync-1e5fbc55e5f7.herokuapp.com).  
   
+![teamwork image](client/src/assets/images/groupPhoto.jpg)
+  
 ## Development
   
   #### About
