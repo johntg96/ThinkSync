@@ -7,7 +7,7 @@ Imagine you have a pool of ideas but it is overflowing. Faucets of thoughts cont
 
 ![application icon](/client/public/assets/logo_small.png)
   
-ThinkSync is a website that after creating an account, allows you to narrow down a set of ideas under a general topic or question. All of the entered ideas are then paired together, forcing the user to select a winner from each pair. They are then shuffled, paired again, and the cycle continues until a final winner for your topic or question. The vote count for each idea and the final result is stored in your account. 
+ThinkSync is a website that after creating an account, allows you to narrow down a set of ideas under a general topic or question. All of the entered ideas are then paired together, forcing the user to select a winner from each pair. They are then shuffled, paired again, and the cycle continues until a final winner for your topic or question results. The vote count for each idea and the overall winner is stored in your account. 
   
 Check it out [here](https://thinksync-1e5fbc55e5f7.herokuapp.com).  
   
