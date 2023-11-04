@@ -29,7 +29,7 @@ Check it out [here](https://thinksync-1e5fbc55e5f7.herokuapp.com).
 
 ## Collaborators
 
-[johntg96](https://github.com/johntg96)         | [splendidonkey@gmail.com](mailto:johntg96@protonmail.com)  
+[johntg96](https://github.com/johntg96)         | [johntg96@protonmail.com](mailto:johntg96@protonmail.com)  
 [ChristyGruen](https://github.com/ChristyGruen) | [christygruen@gmail.com](mailto:christygruen@gmail.com)  
 [BenTrebi](https://github.com/BenTrebi)         | [trebi018@umn.edu](mailto:trebi018@umn.edu)  
 [ghaworth1](https://github.com/ghaworth1)       | [ghaworth1@gmail.com](mailto:ghaworth1@gmail.com)  
