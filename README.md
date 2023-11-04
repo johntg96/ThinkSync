@@ -13,6 +13,11 @@ Check it out [here](https://thinksync-1e5fbc55e5f7.herokuapp.com).
   
 ## Development
   
+  #### About
+  _ThinkSync_ has a frontend running React.js and a backend running MongoDB.  
+  API calls from the frontend are made to the backend using Express.js.  
+  JavaScript encompasses the whole development ecosystem, created with the M.E.R.N tech stack (Node.js).  
+  
   #### Installation
   `cd` into directory and then install node packages with `npm install`
 
