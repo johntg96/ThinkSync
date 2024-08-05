@@ -10,6 +10,7 @@
   --darker-purple: #281f2b;
   --lighter-purple: #b526a0;
   --accent-color-teal: #548687;
+  --accent-color-orange: #ff740c;
   --highlight-color: #C5E99B;
   --darker-green: #8FBC94;
 }
@@ -99,6 +100,7 @@ a:hover {
   margin-top: 1.5em;
   background-color: purple;
   box-shadow: inset 0px 0px 10px 2px rgba(242,12,242,1);
+  border-radius: 1em;
 }
 
 .decision {
@@ -140,16 +142,19 @@ a:hover {
   border: 1px solid var(--secondary-purple);
   color: #12b9ec;
   box-shadow: 5px 5px 10px 1px var(--dark-black);
+  width: 4.5em;
+  height: 4.5em;
 }
 
 .decision-button:hover {
-  background-color: var(--accent-color-teal);
+  background-color: var(--accent-color-orange);
   border: 1px solid var(--secondary-purple);
+  animation: jelloAnimation 2s ease 0s 1 normal forwards;
 }
 
 .decision-button:focus {
   background-color: var(--secondary-purple);
-  box-shadow: 0px 0px 15px 1px var(--accent-color-teal);
+  box-shadow: 0px 0px 15px 1px var(--accent-color-orange);
 }
 
 .round {
@@ -236,4 +241,34 @@ a:hover {
 
 .footer-link:hover {
   color: var(--highlight-color)
+}
+
+@keyframes jelloAnimation {
+	0% {
+		transform: scale3d(1, 1, 1);
+	}
+
+	30% {
+		transform: scale3d(0.75, 1.25, 1);
+	}
+
+	40% {
+		transform: scale3d(1.25, 0.75, 1);
+	}
+
+	50% {
+		transform: scale3d(0.85, 1.15, 1);
+	}
+
+	65% {
+		transform: scale3d(1.05, 0.95, 1);
+	}
+
+	75% {
+		transform: scale3d(0.95, 1.05, 1);
+	}
+
+	100% {
+		transform: scale3d(1, 1, 1);
+	}
 }
