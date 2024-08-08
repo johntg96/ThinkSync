@@ -47,7 +47,7 @@ export default function Home(props) {
               <br/>
               <p>
                 <ol>
-                  <li>Navigate to the "New Think" button to get to the "Think" page.</li>
+                  <li>Click the "New Think" button to get to the "Think" page.</li>
                   <li>Type in your main question or subject into the question field on the "Think" page.</li>
                   <li>Fill in the idea box with one of your ideas (a possible solution or maybe a general idea), click the "+" button as you go.</li>
                   <li>Click the "Submit" button to continue.</li>
@@ -65,7 +65,8 @@ export default function Home(props) {
               The mixing/shuffling/pairing aspect reduces bias in the decision making process.
               <br/>
               <br/>
-              You will come to a completion point where and then given data about your decision making process. This is referred to as a completed "Think".
+              You will come to a completion point where and then given data about your decision making process. This is referred to as a completed bracket or "Think".
+              <br/>
               </p>
             </MDBCardBody>
           </MDBCard>
@@ -81,10 +82,10 @@ export default function Home(props) {
         <MDBCol md='12'>
             <MDBCard alignment='center' className='text-white mb-4 new-think'>
               <MDBCardBody>
-                <MDBCardTitle>New Think</MDBCardTitle>
+                <MDBCardTitle>Get Started</MDBCardTitle>
                 
                 <MDBBtn className='button'href='/think'>
-                          Get Started
+                          New Think
                 </MDBBtn>
               </MDBCardBody>
             </MDBCard>          
@@ -106,10 +107,10 @@ export default function Home(props) {
         <MDBCol md='12'>
             <MDBCard alignment='center' className='text-white mb-4 new-think'>
               <MDBCardBody>
-                <MDBCardTitle>New Think</MDBCardTitle>
+                <MDBCardTitle>Get Started:</MDBCardTitle>
                 
                 <MDBBtn className='button'href='/loginsignup'>
-                          Get Started
+                          New Think
                 </MDBBtn>
               </MDBCardBody>
             </MDBCard>          
