@@ -47,11 +47,7 @@ export default function Home(props) {
               <br/>
               <p>
                 <ol>
-<<<<<<< HEAD
-                  <li>Click the "New Think" button to get to the "Think" page.</li>
-=======
                   <li>Navigate to the "New Think" button to get to the "Think" page.</li>
->>>>>>> f8a9d1c4dc9b8eb9180f6f1e0887054c8b137ea0
                   <li>Type in your main question or subject into the question field on the "Think" page.</li>
                   <li>Fill in the idea box with one of your ideas (a possible solution or maybe a general idea), click the "+" button as you go.</li>
                   <li>Click the "Submit" button to continue.</li>
@@ -69,12 +65,7 @@ export default function Home(props) {
               The mixing/shuffling/pairing aspect reduces bias in the decision making process.
               <br/>
               <br/>
-<<<<<<< HEAD
-              You will come to a completion point where and then given data about your decision making process. This is referred to as a completed bracket or "Think".
-              <br/>
-=======
               You will come to a completion point where and then given data about your decision making process. This is referred to as a completed "Think".
->>>>>>> f8a9d1c4dc9b8eb9180f6f1e0887054c8b137ea0
               </p>
             </MDBCardBody>
           </MDBCard>
